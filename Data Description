@@ -1,1 +1,22 @@
+The Battle Of Neighbourhoods, Data Description 
+
+Information Regarding Foursquare API: 
+The  data regarding different venues in different neighborhoods of Toronto, Canada was borought. We gained the information using the Foursquare locational information. 
+Foursquare is used to provide the location data of all venues and events within an area of interest. 
+The information has venue names, locations, menus and even photos. As such, the foursquare location platform will be used as the sole data source since all the stated required information can be obtained through the API.
+
+After finding the list of neighborhoods, we then connect to the Foursquare API to gather information about venues inside each and every neighborhood. For every individual neighborhood, the rasius is  be 100 meter.
+
+The data in Foursquare contained information of venues within a specified distance of the longitude and latitude of the postcodes in Totonto.
+
+Theinformation in the venues are as the following:
+
+Neighborhood
+Neighborhood Latitude
+Neighborhood Longitude
+Venue Latitude
+Venue Longitude
+Venue Category
+Venue
+Name of the venue e.g. the name of a store or restaurant
 
